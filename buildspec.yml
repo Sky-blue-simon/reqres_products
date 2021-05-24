@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "lecture-test-1"
+    _PROJECT_NAME: "lecture-test-01"
 
 phases:
   install:
